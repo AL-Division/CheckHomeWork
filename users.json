@@ -1,14 +1,138 @@
 {
-    "Андрей Python":
+    "Python":
     {
-        "timetable":
+        "Андрей":
         {
-            "6": "18:00",
-            "7": "19:00"
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "type_mail": 1,
+            "timetable":
+            {
+                "6": "18:00",
+                "7": "19:00"
+            }  
         },
-        "homework": "",
-        "picture": "",
-        "type_mail": 1,
-        "mail": ""
+        "Илья":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "2": "19:00",
+                "4": "18:00"
+            }
+        },
+        "Матвей":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "5": "18:00",
+                "7": "20:00"
+            }
+        },
+        "Александр":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "5": "17:00"
+            }
+        }
+    },
+    "Roblox":
+    {
+        "Артемий":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "2": "18:00",
+                "7": "19:00"
+            }
+        },
+        "Николай Никифорчук":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "1": "16:00",
+                "3": "16:00"
+            }
+        },
+        "Илья Михайлов":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "1": "20:00"
+            }
+        },
+        "Liroy":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "3": "17:00"
+            }
+        },
+        "Настя":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "4": "20:00",
+                "5": "20:00"
+            }
+        },
+        "Вязников Яков":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "6": "16:00"
+            }
+        },
+        "Максим":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "7": "17:00"
+            }
+        }
+    },
+    "Scratch":
+    {
+        "Миша":
+        {
+            "homework": "",
+            "mail": "",
+            "picture": "",
+            "timetable":
+            {
+                "2": "16:00"
+            }
+        }
     }
 }
