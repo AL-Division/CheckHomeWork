@@ -25,9 +25,20 @@ line_mail = QLineEdit()
 
 
 #Обработка событий
-
+def del_student():
+    pass
+def add_student():
+    pass
+def send_homework():
+    pass
+def change_schedule():
+    pass
 
 #Подключение событий
+btn_del_student.clicked.connect(del_student)
+btn_add_student.clicked.connect(add_student)
+btn_send_homework.clicked.connect(send_homework)
+btn_change_schedule.clicked.connect(change_schedule)
 
 # main_win.setLayout(v_line)
 main_win.show()
